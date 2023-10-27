@@ -1,0 +1,4 @@
+name: BankSystem
+version: '${project.version}'
+main: net.dom.bank.Bank
+api-version: 1.17
